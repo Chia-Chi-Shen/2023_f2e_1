@@ -1,0 +1,15 @@
+﻿#Donation{
+    background-image: url(../static/bg-小額捐款.png);
+    background-position: center;
+    height: 527px;
+}
+.donation-card{
+    background-color: #FAFAFA;
+    height: 437px;
+    border-radius: 80px;
+    padding: 0px 30px 0px 30px;
+    gap: 10px;
+    position: relative;
+    left: 0;
+    margin: 45px 0px 45px 0px;
+}
