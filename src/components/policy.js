@@ -1,14 +1,16 @@
 ﻿import React from "react";
 import './policy.css'
+import title from '../static/政策議題.png'
 
 const Policy = () => {
     return (
         <section id="Policy">
         <div className="container">
-        <h1 className="text-white">政策議題</h1>
+        {/* <h1 className="text-white">政策議題</h1> */}
+        <img src={title} alt="政策議題" className="title"/>
         <div className="row" style={{height:"396px"}}>
         <div className="col-4 align-self-start"><div className="policy-card">
-            <div className="tag">政策一</div>
+            <div className="tag text-white">政策一</div>
             <h4 className="policy-title">為毛孩子謀福利！推動寵物醫療保障方案</h4>
             <div className="policy-content">
             1. 設立寵物醫療基金：每年撥款新台幣 10 億元，專款專用於支援家庭寵物的醫療費用<br/>
@@ -17,7 +19,7 @@ const Policy = () => {
             </div>
         </div></div>
         <div className="col-4 align-self-end"><div className="policy-card">
-            <div className="tag">政策二</div>
+            <div className="tag text-white">政策二</div>
             <h4 className="policy-title">打造休閒天堂！推廣寵物休閒與娛樂場所</h4>
             <div className="policy-content">
             1. 建立寵物公園：每年撥款新台幣 5 億元，用於在各大都市建立專屬的寵物公園。<br/>
@@ -27,7 +29,7 @@ const Policy = () => {
             </div>
         </div></div>
         <div className="col-4"><div className="policy-card">
-            <div className="tag">政策三</div>
+            <div className="tag text-white">政策三</div>
             <h4 className="policy-title">推廣寵物飼養教育，讓愛更加專業</h4>
             <div className="policy-content">
             1. 建立寵物飼養教育中心：每年撥款新台幣 3 億元，用於在全國各地建立專業的寵物飼養教育中心。

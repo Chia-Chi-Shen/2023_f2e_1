@@ -8,7 +8,7 @@ const Navbar = () =>
     return(
         <nav className="navbar sticky-top navbar-expand-lg bg-body-tertiary">
         <div className="container">
-            <a className="navbar-brand" href="#">
+            <a className="navbar-brand" href="/">
                 <img src={logo} alt="Logo" className="logo" />
             </a>
             <div className="navbar-collapse collapse" >

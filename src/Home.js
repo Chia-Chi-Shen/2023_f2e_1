@@ -6,6 +6,7 @@ import Event from './components/event';
 import Policy from './components/policy';
 import Donation from './components/donation';
 import Contact from './components/contact';
+import Footer from './components/footer';
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
       <Policy/>
       <Donation/>
       <Contact/>
+      <Footer/>
     </div>
   );
 }

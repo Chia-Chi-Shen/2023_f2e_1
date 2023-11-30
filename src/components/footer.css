@@ -1,0 +1,12 @@
+﻿footer {
+    background-color: #4527A0;
+    padding: 2% 5%;
+    color: white;
+}
+.footer-subtitle {
+    color: #FFB300;
+}
+.footer-menu {
+    display: inline-block;
+    padding: 0px 10px 10px 10px;
+}

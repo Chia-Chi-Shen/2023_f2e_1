@@ -3,12 +3,13 @@ import image1 from '../static/Img-活動01.png'
 import image2 from '../static/Img-活動02.png'
 import image3 from '../static/Img-活動03.png'
 import './event.css'
-
+import title from '../static/最新活動.png'
 
 const Event = () => {
     return (
         <section className="container" id="Event">
-        <h1 className='text-center'>最新活動</h1>
+        {/* <h1 className='text-center'>最新活動</h1> */}
+        <img src={title} alt="最新活動" className="title"/>
         <div className="row" style={{height:"493px"}}>
         <div className="col-5">
         <div className="card">

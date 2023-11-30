@@ -3,6 +3,7 @@
 }
 .contact-text{
     margin-top: 30px;
+    padding: 0px 11%
 }
 form{
     width: 361px;
@@ -16,4 +17,11 @@ form{
 }
 .contact-form-content{
     width: 361px;
+}
+.footer-cat {
+    position: relative;
+    top: 150px;
+    right: 200px;
+    z-index: 1;
+    margin-top: -150px;
 }
