@@ -32,7 +32,7 @@ const Contact = () => {
                 </form>
             </div>
         </div></div>
-        <img className="footer-cat" src={cat} alt="cat"/>
+        <img className="footer-cat" rc={cat} alt="cat"/>
         </section>
     )
 }
