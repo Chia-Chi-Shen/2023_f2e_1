@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ad63595482d71d6ff29ba6b8612d2da",
+    "revision": "7936b0a5c8163cf90c65ab7812bde4a9",
     "url": "/2023_f2e_1/index.html"
   },
   {
-    "revision": "966bbb4127bf45557e39",
+    "revision": "37e3e9fd8725c27ab229",
     "url": "/2023_f2e_1/static/css/2.cc82f8aa.chunk.css"
   },
   {
-    "revision": "0e449d00275552e235f0",
-    "url": "/2023_f2e_1/static/css/main.f37b81ab.chunk.css"
+    "revision": "b006f8f40c70967da633",
+    "url": "/2023_f2e_1/static/css/main.7592716d.chunk.css"
   },
   {
-    "revision": "966bbb4127bf45557e39",
-    "url": "/2023_f2e_1/static/js/2.e59b1661.chunk.js"
+    "revision": "37e3e9fd8725c27ab229",
+    "url": "/2023_f2e_1/static/js/2.c1fc8f8a.chunk.js"
   },
   {
-    "revision": "db4976e2c3fc371be79e",
-    "url": "/2023_f2e_1/static/js/3.1af95c37.chunk.js"
+    "revision": "6a2a939c6c472481a460",
+    "url": "/2023_f2e_1/static/js/3.5a11cc32.chunk.js"
   },
   {
-    "revision": "0e449d00275552e235f0",
-    "url": "/2023_f2e_1/static/js/main.3e2b14d3.chunk.js"
+    "revision": "b006f8f40c70967da633",
+    "url": "/2023_f2e_1/static/js/main.4164d260.chunk.js"
   },
   {
-    "revision": "1930f6038892f05895d0",
-    "url": "/2023_f2e_1/static/js/runtime~main.6ea2b0ce.js"
+    "revision": "6518069fdeeada9e9ec7",
+    "url": "/2023_f2e_1/static/js/runtime~main.002b92a3.js"
   },
   {
     "revision": "540b322f7d708b43d8ed90992012700a",
@@ -54,5 +54,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4cf488692b0f1a4a69670dd68b4d0f97",
     "url": "/2023_f2e_1/static/media/bg-小額捐款.4cf48869.png"
+  },
+  {
+    "revision": "58a8912be47e252e8b8d96cf6c6eb6d5",
+    "url": "/2023_f2e_1/static/media/footer_cat.58a8912b.png"
   }
 ]);

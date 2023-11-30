@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/2023_f2e_1/static/css/main.f37b81ab.chunk.css",
-    "main.js": "/2023_f2e_1/static/js/main.3e2b14d3.chunk.js",
-    "main.js.map": "/2023_f2e_1/static/js/main.3e2b14d3.chunk.js.map",
-    "runtime~main.js": "/2023_f2e_1/static/js/runtime~main.6ea2b0ce.js",
-    "runtime~main.js.map": "/2023_f2e_1/static/js/runtime~main.6ea2b0ce.js.map",
+    "main.css": "/2023_f2e_1/static/css/main.7592716d.chunk.css",
+    "main.js": "/2023_f2e_1/static/js/main.4164d260.chunk.js",
+    "main.js.map": "/2023_f2e_1/static/js/main.4164d260.chunk.js.map",
+    "runtime~main.js": "/2023_f2e_1/static/js/runtime~main.002b92a3.js",
+    "runtime~main.js.map": "/2023_f2e_1/static/js/runtime~main.002b92a3.js.map",
     "static/css/2.cc82f8aa.chunk.css": "/2023_f2e_1/static/css/2.cc82f8aa.chunk.css",
-    "static/js/2.e59b1661.chunk.js": "/2023_f2e_1/static/js/2.e59b1661.chunk.js",
-    "static/js/2.e59b1661.chunk.js.map": "/2023_f2e_1/static/js/2.e59b1661.chunk.js.map",
-    "static/js/3.1af95c37.chunk.js": "/2023_f2e_1/static/js/3.1af95c37.chunk.js",
-    "static/js/3.1af95c37.chunk.js.map": "/2023_f2e_1/static/js/3.1af95c37.chunk.js.map",
+    "static/js/2.c1fc8f8a.chunk.js": "/2023_f2e_1/static/js/2.c1fc8f8a.chunk.js",
+    "static/js/2.c1fc8f8a.chunk.js.map": "/2023_f2e_1/static/js/2.c1fc8f8a.chunk.js.map",
+    "static/js/3.5a11cc32.chunk.js": "/2023_f2e_1/static/js/3.5a11cc32.chunk.js",
+    "static/js/3.5a11cc32.chunk.js.map": "/2023_f2e_1/static/js/3.5a11cc32.chunk.js.map",
     "index.html": "/2023_f2e_1/index.html",
-    "precache-manifest.0d4f8120e897cf101652964e2d599700.js": "/2023_f2e_1/precache-manifest.0d4f8120e897cf101652964e2d599700.js",
+    "precache-manifest.fd4557fc241cffde085b9d29c001545f.js": "/2023_f2e_1/precache-manifest.fd4557fc241cffde085b9d29c001545f.js",
     "service-worker.js": "/2023_f2e_1/service-worker.js",
     "static/css/2.cc82f8aa.chunk.css.map": "/2023_f2e_1/static/css/2.cc82f8aa.chunk.css.map",
-    "static/css/main.f37b81ab.chunk.css.map": "/2023_f2e_1/static/css/main.f37b81ab.chunk.css.map",
+    "static/css/main.7592716d.chunk.css.map": "/2023_f2e_1/static/css/main.7592716d.chunk.css.map",
     "static/media/Img-活動01.png": "/2023_f2e_1/static/media/Img-活動01.540b322f.png",
     "static/media/Img-活動02.png": "/2023_f2e_1/static/media/Img-活動02.722452be.png",
     "static/media/Img-活動03.png": "/2023_f2e_1/static/media/Img-活動03.da5745c4.png",
     "static/media/index.css": "/2023_f2e_1/static/media/NotoSansTC-Regular.ad18e8fc.ttf",
     "static/media/banner-profile.png": "/2023_f2e_1/static/media/banner-profile.b2bc9291.png",
-    "static/media/donation.css": "/2023_f2e_1/static/media/bg-小額捐款.4cf48869.png"
+    "static/media/donation.css": "/2023_f2e_1/static/media/bg-小額捐款.4cf48869.png",
+    "static/media/footer_cat.png": "/2023_f2e_1/static/media/footer_cat.58a8912b.png"
   }
 }
